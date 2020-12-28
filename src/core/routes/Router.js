@@ -22,7 +22,7 @@ export class Router {
         this.changePageHandler()
     }
 
-    changePageHandler() {
+    async changePageHandler() {
         if (this.page) {
             this.page.destroy
         }
@@ -34,7 +34,9 @@ export class Router {
 
         this.page = new Page(ActiveRoute.param)
 
-        this.$placeholder.append(this.page.getRoot())
+        const root = await this.page.getRoot()
+
+        this.$placeholder.clear().append(root)
 
         this.page.afterRender()
     }
