@@ -13,12 +13,12 @@ https://qallpaq.github.io/Excel/
 
 <img src="readme_img/text.png" width="400" height="200"></img>
 
-1. text-align: left
-2. text-align: center
-3. text-align: right
-4. font-weight: bold
-5: text-decoration: underline
-6: font-style: italic
+1. text-align: left;
+2. text-align: center;
+3. text-align: right;
+4. font-weight: bold;
+5. text-decoration: underline;
+6. font-style: italic;
 
 <h2>Математические операции начинаются со знака '=' </h2>
 
