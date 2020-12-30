@@ -36,3 +36,5 @@ https://qallpaq.github.io/Excel/
 
 1. удаление таблицы
 2. перейти к выбору таблицы
+3. <img src="readme_img/cells.png" width="200" height="100"></img>
+    shift + left-click
