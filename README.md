@@ -30,11 +30,17 @@ https://qallpaq.github.io/Excel/
 <img src="readme_img/resize.png" width="400" height="200"></img>
 
 
+<h2>ВЫбор нескольких ячеек</h2> 
+
+<img src="readme_img/cells.png" width="200" height="100"></img>
+
+shift + left-click
+
+
+
 <h2>Так же доступно</h2>
 
 <img src="readme_img/del-save.png" width="400" height="200"></img>
 
 1. удаление таблицы
 2. перейти к выбору таблицы
-3. <img src="readme_img/cells.png" width="200" height="100"></img>
-    shift + left-click
