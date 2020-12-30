@@ -17,9 +17,8 @@ https://qallpaq.github.io/Excel/
 2. text-align: center;
 3. text-align: right;
 4. font-weight: bold;
-</br>
-5: text-decoration: underline;
-6: font-style: italic;
+5. text-decoration: underline;
+6. font-style: italic;
 
 <h2>Математические операции начинаются со знака '=' </h2>
 
